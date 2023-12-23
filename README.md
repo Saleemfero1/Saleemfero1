@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100vw"/>
 </div>
 <!-- Dark Box with Padding -->
 <div style="background-color: #333; color: black; padding: 40px;">
