@@ -6,7 +6,7 @@
 <div style="background-color: #333; padding: 80px;">
 
  
- # Hi 👋, I'm
+ Hi 👋, I'm
  **Saleem Bandenawaz**
  
   <p align="left">
