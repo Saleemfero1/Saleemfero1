@@ -3,11 +3,11 @@
 </div>
 
 <!-- Dark Box with Padding -->
-<div style="background-color: #333; padding: 22px;">
+<div style="background-color: #333; padding: 80px;">
 
  
- Hi 👋, I'm
- **Saleem Bandenawaz**
+ # Hi 👋, I'm
+ # Saleem Bandenawaz
  
   <p align="left">
     <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
