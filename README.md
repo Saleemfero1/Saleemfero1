@@ -1,4 +1,3 @@
-
 <div id="badges" align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150vw" height="350px"/>
@@ -13,7 +12,6 @@
    <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Saleem Bandenawaz</h1>
   </div>
 </div>
-
 
 ---
 
