@@ -17,13 +17,17 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🚀 As a Full Stack Developer, I excel in crafting both frontend and backend solutions for robust web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 💡 I am passionate about writing clean and reactive code, ensuring high-quality software development practices.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 📚 Currently, I am broadening my skill set by delving into Android development and gaining proficiency in DevOps tools, fostering a holistic approach to software engineering.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saleem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saleem-ferozabad)
+- 🔍 Apart from my professional commitments, I actively engage in problem-solving on platforms like GeeksforGeeks, honing my algorithmic and coding skills.
+
+- 🌱 Embracing a continuous learning mindset, I stay updated with the latest trends in technology and regularly read tech articles to deepen my understanding of industry best practices.
+
+- 💻 Committed to the art of software engineering, I contribute meaningfully to the development of innovative and user-centric web applications.
 
  ---
 
