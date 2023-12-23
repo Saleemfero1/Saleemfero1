@@ -1,54 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome Box</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: 'Arial', sans-serif;
-        }
-
-        .dark-box {
-            background-color: #333; /* Dark color for the box */
-            color: #fff; /* White text color */
-            padding: 40px; /* 40px padding */
-        }
-
-        .first-line {
-            font-size: 20px;
-        }
-
-        .second-line {
-            font-size: 40px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-
-<div class="dark-box">
-    <p class="first-line">Hi, I'm</p>
-    <p class="second-line">Saleem Bandenawaz</p>
-</div>
-
-</body>
-</html>
-
-<!-- Dark Box with Padding -->
-<div background-color="red" padding="80px">
-
-
 <div id="header" align="center" background-color="#333">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100vw"/>
 </div>
+
 <!-- Dark Box with Padding -->
 <div style="background-color: #333; color: black; padding: 40px;">
 
-  <!-- First Line with 20px Font Size -->
-  <p style="font-size: 20px;">Hi👋, I'm</p>
+<p style="font-size: 20px;">Hi👋, I'm</p>
 
   <!-- Second Line with 40px Font Size, Bold, and White Color -->
   <p style="font-size: 40px; font-weight: bold; color: #fff;">Saleem Bandenawaz</p>
