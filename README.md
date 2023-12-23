@@ -1,5 +1,5 @@
 
-<div id="header" align="center" background-color: "#333">
+<div id="header" align="center" background-color="#333">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100vw"/>
 </div>
 <!-- Dark Box with Padding -->
