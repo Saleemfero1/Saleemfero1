@@ -1,7 +1,8 @@
-<div id="header" align="center" background-color="#333">
+
+<div id="badges" align="center">
+  <div id="header">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150vw" height="350px"/>
 </div>
-<div id="badges" align="center">
   <a href="https://github.com/Saleemfero1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
