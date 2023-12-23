@@ -4,7 +4,7 @@
 
 <!-- Dark Box with Padding -->
 <div align="center">
- # Hi 👋, I'm Saleem Bandenawaz
+ #** Hi 👋, I'm Saleem Bandenawaz**
 </div>
 <div id="badges" align="center">
   <a href="https://github.com/Saleemfero1">
