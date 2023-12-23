@@ -22,7 +22,7 @@
 
 
 <div>
-  ## About Me  
+  <p style="font-size:30px"> About Me </p> 
   <p align="left">
     <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
   </p>
