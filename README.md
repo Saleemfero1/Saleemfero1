@@ -1,5 +1,5 @@
 <!-- Dark Box with Padding -->
-<div style="background-color: #333; color: #fff; padding: 40px;">
+<div style="background-color: #333; color: black; padding: 40px;">
 
   <!-- First Line with 20px Font Size -->
   <p style="font-size: 20px;">Hi👋, I'm</p>
