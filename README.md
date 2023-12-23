@@ -15,7 +15,7 @@
   </a>  
 </div>
 
-My name is Saleem, and I'm from the coding world. I'm a passionate full-stack developer with a strong interest in technology. Currently, I'm working on projects involving Java, Kotlin, ReactJS, NextJS, and SQL. I'm also in the process of learning React Native for Android. I am open to collaboration on exciting projects!
+I'm from the coding world. I'm a passionate full-stack developer with a strong interest in technology. Currently, I'm working on projects involving Java, Kotlin, ReactJS, NextJS, and SQL. I'm also in the process of learning React Native for Android. I am open to collaboration on exciting projects!
 
 Here are some ideas to get you started:
 
