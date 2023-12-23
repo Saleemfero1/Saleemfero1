@@ -1,8 +1,6 @@
 <div id="header" align="center" background-color="#333">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150vw" height="350px"/>
 </div>
-
-<!-- Dark Box with Padding -->
 <div id="badges" align="center">
   <a href="https://github.com/Saleemfero1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +12,6 @@
 <div align="center">
  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Saleem Bandenawaz</h1>
 </div>
-
 ---
 
 ### :man_technologist: About Me :
