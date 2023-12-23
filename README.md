@@ -1,4 +1,10 @@
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Box</title>
+    <style>
         body {
             margin: 0;
             padding: 0;
@@ -20,6 +26,17 @@
             font-weight: bold;
         }
     </style>
+</head>
+<body>
+
+<div class="dark-box">
+    <p class="first-line">Hi, I'm</p>
+    <p class="second-line">Saleem Bandenawaz</p>
+</div>
+
+</body>
+</html>
+
 <!-- Dark Box with Padding -->
 <div background-color="red" padding="80px">
 
