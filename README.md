@@ -6,12 +6,7 @@
 <div style="background-color: #333; padding: 80px;">
 
  
- # Hi 👋, I'm
- # Saleem Bandenawaz
- 
-  <p align="left">
-    <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
-  </p>
+ # Hi 👋, I'm  # Saleem Bandenawaz
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -27,7 +22,9 @@
 
 
 
-## About Me
+## About Me  <p align="left">
+    <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
+  </p>
 
 My name is Saleem, and I'm from the coding world. I'm a passionate full-stack developer with a strong interest in technology. Currently, I'm working on projects involving Java, Kotlin, ReactJS, NextJS, and SQL. I'm also in the process of learning React Native for Android. I am open to collaboration on exciting projects!
 
