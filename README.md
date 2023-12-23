@@ -3,9 +3,6 @@
 </div>
 
 <!-- Dark Box with Padding -->
-<div align="center">
- <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Saleem Bandenawaz</h1>
-</div>
 <div id="badges" align="center">
   <a href="https://github.com/Saleemfero1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,6 +10,12 @@
   <a href="https://github.com/Saleemfero1">
     <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
   </a>  
+</div>
+<div align="center">
+ <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Saleem Bandenawaz</h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 I'm from the coding world. I'm a passionate full-stack developer with a strong interest in technology. Currently, I'm working on projects involving Java, Kotlin, ReactJS, NextJS, and SQL. I'm also in the process of learning React Native for Android. I am open to collaboration on exciting projects!
