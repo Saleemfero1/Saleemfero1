@@ -26,11 +26,6 @@
   <p align="left">
     <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
   </p>
-  <script src="https://unpkg.com/whatsapp-button?module" type="module"></script>
-<br>
-
-<whatsapp-button phone="123456789" dialcode="44" text="hey there lets chat!" label="Start Chat"></whatsapp-button>
-
 </div>
 
 
