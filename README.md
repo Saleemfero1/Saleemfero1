@@ -3,9 +3,7 @@
 </div>
 
 <!-- Dark Box with Padding -->
-<div style="background-color: #333; padding: 80px;">
-
- 
+<div align="center">
  # Hi 👋, I'm Saleem Bandenawaz
 </div>
 <div id="badges" align="center">
