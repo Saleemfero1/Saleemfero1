@@ -1,3 +1,8 @@
+<!-- Dark Box with Padding -->
+<div background-color="red" padding="40px">
+
+ 
+
 
 <div id="header" align="center" background-color="#333">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100vw"/>
@@ -57,3 +62,5 @@ Here are some ideas to get you started:
 - [Instagram](https://www.instagram.com/your-instagram)
 - WhatsApp: +1234567890
 - Email: your.email@example.com
+
+</div>
