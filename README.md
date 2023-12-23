@@ -3,14 +3,18 @@
 </div>
 
 <!-- Dark Box with Padding -->
-<div style="background-color: #333; color: black; padding: 40px;">
+<div style="background-color: #333; padding: 40px;">
 
-<p style="font-size: 20px;">Hi👋, I'm</p>
+  <!-- First Line with 20px Font Size -->
+  <p style="font-size: 20px;">Hi 👋, I'm</p>
 
   <!-- Second Line with 40px Font Size, Bold, and White Color -->
-  <p style="font-size: 40px; font-weight: bold; color: #fff;">Saleem Bandenawaz</p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
+  </p>
 
 </div>
+
 
 ## About Me
 
