@@ -7,7 +7,7 @@
 
  
  # Hi 👋, I'm
- ## Saleem Bandenawaz
+ ##**Saleem Bandenawaz**
  
   <p align="left">
     <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
