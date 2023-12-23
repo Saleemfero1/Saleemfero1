@@ -5,10 +5,10 @@
 <!-- Dark Box with Padding -->
 <div style="background-color: #333; padding: 80px;">
 
-  <!-- First Line with 20px Font Size -->
-  <p style="font-size: 50px;">Hi 👋, I'm</p>
-
-  <!-- Second Line with 40px Font Size, Bold, and White Color -->
+ 
+ # Hi 👋, I'm
+ ## Saleem Bandenawaz
+ 
   <p align="left">
     <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
   </p>
