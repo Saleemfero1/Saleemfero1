@@ -3,10 +3,10 @@
 </div>
 
 <!-- Dark Box with Padding -->
-<div style="background-color: #333; padding: 40px;">
+<div style="background-color: #333; padding: 80px;">
 
   <!-- First Line with 20px Font Size -->
-  <p style="font-size: 20px;">Hi 👋, I'm</p>
+  <p style="font-size: 50px;">Hi 👋, I'm</p>
 
   <!-- Second Line with 40px Font Size, Bold, and White Color -->
   <p align="left">
