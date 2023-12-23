@@ -3,7 +3,7 @@
 </div>
 
 <!-- Dark Box with Padding -->
-<div style="background-color: #333; padding: 80px;">
+<div style="background-color: #333; padding: 22px;">
 
  
  Hi 👋, I'm
