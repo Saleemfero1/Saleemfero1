@@ -1,7 +1,27 @@
+<style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+        }
+
+        .dark-box {
+            background-color: #333; /* Dark color for the box */
+            color: #fff; /* White text color */
+            padding: 40px; /* 40px padding */
+        }
+
+        .first-line {
+            font-size: 20px;
+        }
+
+        .second-line {
+            font-size: 40px;
+            font-weight: bold;
+        }
+    </style>
 <!-- Dark Box with Padding -->
 <div background-color="red" padding="80px">
-
- 
 
 
 <div id="header" align="center" background-color="#333">
