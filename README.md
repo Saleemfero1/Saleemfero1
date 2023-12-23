@@ -1,7 +1,13 @@
-### Hi there 👋
+<!-- Dark Box with Padding -->
+<div style="background-color: #333; color: #fff; padding: 40px;">
 
+  <!-- First Line with 20px Font Size -->
+  <p style="font-size: 20px;">Hi👋, I'm</p>
 
-# Welcome to My Profile! 👋
+  <!-- Second Line with 40px Font Size, Bold, and White Color -->
+  <p style="font-size: 40px; font-weight: bold; color: #fff;">Saleem Bandenawaz</p>
+
+</div>
 
 ## About Me
 
