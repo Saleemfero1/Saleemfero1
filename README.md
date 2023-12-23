@@ -9,23 +9,18 @@
  # Hi 👋, I'm Saleem Bandenawaz
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://github.com/Saleemfero1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Watsapp-blue?style=for-the-badge&logo=Watsapp&logoColor=white" alt="Watsapp Badge"/>
-  </a>
+    <p align="left">
+    <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
+  </p>
 </div>
 
 
 <div>
   <p style="font-size:30px"> About Me </p> 
-  <p align="left">
-    <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
-  </p>
+
 </div>
 
 
