@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Saleemfero1">
-    <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
+    <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem">
   </a>  
   <div align="center">
    <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Saleem</h1>
