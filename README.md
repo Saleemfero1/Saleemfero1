@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Saleem%20Bandenawaz-Developer-brightgreen?style=for-the-badge&logo=appveyor" alt="Saleem Bandenawaz">
   </a>  
   <div align="center">
-   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Saleem Bandenawaz</h1>
+   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Saleem</h1>
   </div>
 </div>
 
